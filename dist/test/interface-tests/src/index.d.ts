@@ -1,0 +1,21 @@
+export declare const root: any;
+export declare const files: any;
+export declare const bitswap: any;
+export declare const block: any;
+export declare const dag: any;
+export declare const object: any;
+export declare const pin: any;
+export declare const bootstrap: any;
+export declare const dht: any;
+export declare const name: any;
+export declare const namePubsub: any;
+export declare const ping: any;
+export declare const pubsub: any;
+export declare const swarm: any;
+export declare const config: any;
+export declare const key: any;
+export declare const miscellaneous: any;
+export declare const repo: any;
+export declare const routing: any;
+export declare const stats: any;
+//# sourceMappingURL=index.d.ts.map

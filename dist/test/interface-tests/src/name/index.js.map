@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../test/interface-tests/src/name/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAA;AAC/C,OAAO,EAAE,WAAW,EAAE,MAAM,cAAc,CAAA;AAC1C,OAAO,EAAE,WAAW,EAAE,MAAM,cAAc,CAAA;AAE1C,MAAM,KAAK,GAAG;IACZ,OAAO,EAAE,WAAW;IACpB,OAAO,EAAE,WAAW;CACrB,CAAA;AAED,eAAe,WAAW,CAAC,KAAK,CAAC,CAAA"}

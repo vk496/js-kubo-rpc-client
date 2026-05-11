@@ -1,0 +1,1 @@
+{"version":3,"file":"blockstore-adapter.d.ts","sourceRoot":"","sources":["../../../../../test/interface-tests/src/utils/blockstore-adapter.ts"],"names":[],"mappings":"AAMA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAA;AAC7D,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,sBAAsB,CAAA;AAqCtD,MAAM,CAAC,OAAO,UAAU,gBAAgB,CAAE,IAAI,EAAE,aAAa,GAAG,UAAU,CAEzE"}

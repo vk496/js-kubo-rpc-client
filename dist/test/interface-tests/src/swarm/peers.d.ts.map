@@ -1,0 +1,1 @@
+{"version":3,"file":"peers.d.ts","sourceRoot":"","sources":["../../../../../test/interface-tests/src/swarm/peers.ts"],"names":[],"mappings":"AASA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAA;AACpD,OAAO,KAAK,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAA;AAElD,wBAAgB,SAAS,CAAE,OAAO,EAAE,OAAO,CAAC,QAAQ,CAAC,EAAE,OAAO,EAAE,WAAW,GAAG,IAAI,CA+HjF"}
